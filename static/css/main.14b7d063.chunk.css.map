@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/GoodsList/GoodsList.scss"],"names":[],"mappings":"AAGE,kBACE,SAJQ,CAGV,oBACE,WAJe,CAGjB,mBACE,UAJqB","file":"main.14b7d063.chunk.css","sourcesContent":["$colors: red, green, blue;\n\n@each $color in $colors {\n  .good--color--#{$color} {\n    color: $color;\n  }\n}\n"]}
